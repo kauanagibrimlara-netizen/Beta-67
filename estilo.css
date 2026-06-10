@@ -3,3 +3,10 @@ background-color: rgb(255, 227, 238);
 color: rgb(142, 83, 17);
 font-family:@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 }
+
+
+
+.cabeçalho{
+background-color: red;
+text-align: center;
+}
