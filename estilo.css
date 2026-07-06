@@ -4,10 +4,57 @@ background-color: rgb(255, 227, 238);
 color: rgb(255, 227, 238);
 font-family: "Lobster Two", sans-serif;
 }
+h2{
+font-family: "Archivo Black",sans-serif;
+font-weight: 1000;
+font-style: normal;
+text-align: center;
 
+}
+h2{
+font-family: "Archivo Black",sans-serif;
+font-weight: 1000;
+font-style: normal;
+text-align: center;
+}
 
+p{
+font-family: "Archivo Black",sans-serif;
+font-weight: 1000;
+font-style: normal;
+text-align: center;
 
-.cabeçalho{
+}
 background-color: rgb(161, 123, 72);
 text-align: center;
+.imagem-post{
+    width: 1000px;
+    height: 1000px;
+}
+main{
+    background-color: bisque;
+    color: darksalmon;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
+}
+article{
+    display: flex;
+}
+.texto-post.img01{
+    margin-left: 40px;
+    margin-block-start: 130;
+}
+button{
+    width: 120px;
+    padding: 15px;
+    border-radius: 20px;
+    border-radius: 20px;
+    background-color: aliceblue;
+    color: pink;
+}
+.img01{
+    width: 500px;
+    height: 800px;
+    
 }
