@@ -4,23 +4,29 @@ background-color: rgb(255, 227, 238);
 color: rgb(255, 227, 238);
 font-family: "Lobster Two", sans-serif;
 }
+.cabecalho{
+    background-color: aqua;
+    text-align: center;
+    padding: 20 px;
+}
+
 h2{
 font-family: "Archivo Black",sans-serif;
-font-weight: 120;
+font-weight: 1000;
 font-style: normal;
 text-align: center;
 
 }
 h2{
 font-family: "Archivo Black",sans-serif;
-font-weight: 120;
+font-weight: 1000;
 font-style: normal;
 text-align: center;
 }
 
 p{
 font-family: "Archivo Black",sans-serif;
-font-weight: 120;
+font-weight: 1000;
 font-style: normal;
 text-align: center;
 
